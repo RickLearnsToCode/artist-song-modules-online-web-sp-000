@@ -4,9 +4,4 @@ module Findable
     self.all.detect {|each| each.name == name}
   end
 
-
-
-
-
-
 end
